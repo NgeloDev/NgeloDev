@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
+- Tech Stack: HTML CSS JAVASCRIPT NPM GIT BOOTSTRAP REACTJS
 
 <!---
 NgeloDev/NgeloDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
